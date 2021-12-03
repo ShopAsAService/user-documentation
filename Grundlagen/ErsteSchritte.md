@@ -8,6 +8,10 @@
 ## Logo hochladen
 ## Das erste Produkt anlegen
 ## Startseiten-Inhalte anpassen
-## Versand und Zahlungsarten konfigurieren
+## Zahlungsarten konfigurieren
+- Am einfachsten ist die Zahlart Vorkasse. Diese ist bereits standardmäßig vorkonfiguriert. Um diese zu nutzen, musst Du nur Deine Bankverbindung unter Grundeinstellungen > Stammdaten einpflegen, damit Deine Kunden wissen, wohin sie überweisen müssen.
+- Für alle anderen Zahlarten brauchst Du die Anbindung an einen Zahlarte-Provider. Hierfür sind bereits diverse Schnittstellen zu Zahlaungsanbietern wie Klarna, Payone oder Mollie im ShopAsAService enthalten.
+- Am einfachsten ist es mit [Mollie](https://www.mollie.com/de/). Mollie bietet Dir diverse internationale Zahlarten wie Paypal, Kreditkarte oder Sofortüberweisung aus einer Hand und Du kannst Dich einfach Online bei Mollie registrieren, Händlerdaten erhalten und diese im Adminbereich unter Erweiiterungen > Module > Mollie hinterlegen. Anschließend musst du die gewünschten und gebuchten Zahlungsarten unter Shopeinstellungen > Zahlungsarten aktivieren.
+## Versandkosten setzen
 ## Rechtstexte anpassen
 ## Deine erste Bestellung
