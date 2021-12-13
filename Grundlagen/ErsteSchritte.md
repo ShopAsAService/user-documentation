@@ -6,6 +6,7 @@
 ## Mailversand einrichten
 - Hierzu benötigst Du ein SMTP-fähiges Postfach. Trage die Zugangsdaten im Shop Admin unter Grundeinstellungen > Stammdaten ein.
 ## Logo hochladen
+- Lade unter Grundeinstellungen > Stammdaten > Design Dein Logo hoch.
 ## Das erste Produkt anlegen
 ## Startseiten-Inhalte anpassen
 ## Zahlungsarten konfigurieren
