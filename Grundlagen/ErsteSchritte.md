@@ -101,3 +101,25 @@ Gib Deine Informationen ein, indem Du die CMS-Ihanle bearbeitest:
 
 ## Deine erste Bestellung
 
+### Kunden Verwalten
+
+#### Kundengruppen
+
+### Bestellungen bearbeiten
+
+### Bestellung versenden
+
+## Marketing
+
+### Rabatte planen
+
+### Gutscheine einrichten
+
+### Landingpages erstellen
+
+### Offline Seite
+
+?
+
+
+
